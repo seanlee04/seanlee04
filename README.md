@@ -1,15 +1,16 @@
+![MasterHead](https://qrangers.com/wp-content/uploads/2021/09/Banner-Introduction-to-3D-Animation.png)
 # 👋 Hi, I'm Sean!
 <h3>A Computer Science & Finance Student @ University Of Waterloo! Seeking Fall 2025 SWE/ML Internships</h3>
 
-- 🔭 I’m currently working on [My Personal Website](https://matthew-matta.netlify.app/)
+- 🔭 I’m currently working on a **Spotify Listening Tracker**
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
 - 💬 Ask me about **Front-End and Back-End Development!**
 
-- 📫 How to reach me **matthewlmatta@gmail.com**
+- 📫 How to reach me **seanlyw712@gmail.com**
 
-- ⚡ Fun fact **I can do a handstand!**
+- ⚡ Fun fact: **I pour milk in before cereal**
 
 <p align="center"><a href=#><img src="contributions.svg"></a> </p>
 
