@@ -19,8 +19,10 @@
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/s59lee/)
 [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:seanlyw712@gmail.com)
+
 </div>
 
 ## 🏆 GitHub Trophies
