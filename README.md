@@ -2,7 +2,7 @@
 # 👋 Hi, I'm Sean!
 <h3>A Computer Science & Finance Student @ University Of Waterloo! Seeking Fall 2025 SWE/ML Internships</h3>
 
-- 🔭 I’m currently working on a **Spotify Listening Tracker**
+- 🔭 I’m currently working on a **AI Travel Planner**
 
 - 🌱 I’m currently learning **Machine Learning, Data Structures and Algorithms**
 
