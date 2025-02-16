@@ -8,7 +8,7 @@
 
 - 💬 Ask me about **Front-End and Back-End Development!**
 
-- 📫 How to reach me **seanlyw712@gmail.com**
+- 📫 How to reach me **s59lee@uwaterloo.ca**
 
 - ⚡ Fun fact: **I pour milk in before cereal**
 
